@@ -1,16 +1,16 @@
 
-# 🤖 Student Performance Predictor: A Machine Learning Classification Project
+#  Student Performance Predictor: A Machine Learning Classification Project
 
 [![GitHub](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](link_to_your_github_repo)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Model_Training-orange?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FF6A00?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 
-## 🌟 Project Overview
+##  Project Overview
 
 This project implements a **binary classification** machine learning model to predict the academic outcome of students—specifically, whether a student is likely to **Pass or Fail** their final examination. Utilizing data science and key ML algorithms, the goal is to provide a robust predictive tool for educational institutions to facilitate **early intervention** and support for at-risk students.
 
-### 🎯 Key Machine Learning Skills Demonstrated
+###  Key Machine Learning Skills Demonstrated
 
 * **Data Preprocessing and Feature Engineering:** Handling mixed data types, encoding categorical variables, and managing data quality.
 * **Addressing Class Imbalance:** Applying techniques like **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the target variable for reliable model training.
@@ -19,7 +19,7 @@ This project implements a **binary classification** machine learning model to pr
 
 ---
 
-## 💻 Technologies and Libraries
+##  Technologies and Libraries
 
 The project is developed entirely in **Python** and relies on the following key libraries:
 
@@ -66,7 +66,7 @@ The project follows a rigorous machine learning workflow documented step-by-step
 
 ---
 
-## 🚀 Execution Guide (Anaconda Environment)
+##  Execution Guide (Anaconda Environment)
 
 To replicate the results and run the `code.ipynb` notebook:
 
@@ -111,7 +111,7 @@ The browser will open the Jupyter interface. Simply click on the **`code.ipynb`*
 
 -----
 
-## 📈 Model Performance Summary
+##  Model Performance Summary
 
 After employing techniques like **SMOTE** to handle class imbalance and utilizing **StandardScaler** for feature normalization, the Logistic Regression model was selected as the final production model due to its optimal balance of performance and interpretability.
 
@@ -124,7 +124,7 @@ After employing techniques like **SMOTE** to handle class imbalance and utilizin
 
 -----
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 Potential areas for future development and improvement include:
 
@@ -135,7 +135,7 @@ Potential areas for future development and improvement include:
 
 -----
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File Name | Description |
 | :--- | :--- |
@@ -148,16 +148,10 @@ Potential areas for future development and improvement include:
 
 -----
 
-## 🤝 Contribution
-
-Contributions are welcome\! If you have suggestions for improving the code, data analysis, or model performance, please feel free to fork the repository and submit a pull request.
-
------
-
-## 👤 Author
+##  Author
 
   * **Meaad Farag** - *Software Engineering Graduate / Data Science Enthusiast*
-      * **GitHub:** [Link to your GitHub Profile]
+    
       * **LinkedIn:** [Meaad Farag](https://www.google.com/search?q=https://www.linkedin.com/in/meaad-farag-2888b1342)
 
 -----

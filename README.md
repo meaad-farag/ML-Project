@@ -152,11 +152,13 @@ Potential areas for future development and improvement include:
 
   * **Meaad Farag** - *Software Engineering Graduate / Data Science Enthusiast*
     
-      * **LinkedIn:** [Meaad Farag](https://www.google.com/search?q=https://www.linkedin.com/in/meaad-farag-2888b1342)
+      * **LinkedIn:** www.linkedin.com/in/meaad-farag-2888b1342
+
+
 
 -----
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details (Note: You may need to add a `LICENSE.md` file to your repository).
 
